@@ -1,5 +1,6 @@
 <h1 align="center">
-	<img alt="Logo" src=".github/logo.png"/>
+	<img alt="Logo" src=".github/logo.png"
+  width="500px"/>
 </h1>
 
 <h3 align="center">
