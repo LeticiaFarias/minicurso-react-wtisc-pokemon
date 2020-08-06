@@ -1,6 +1,6 @@
 <h1 align="center">
-	<img alt="Logo" src=".github/logo.png"
-  width="300px"/>
+	<img alt="Logo" src="https://fontmeme.com/permalink/200806/5af8c35afc473af0edadd767d179a184.png"
+  width="400px"/>
 </h1>
 
 <h3 align="center">
